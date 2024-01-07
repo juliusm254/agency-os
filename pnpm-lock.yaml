@@ -93,7 +93,7 @@ devDependencies:
     specifier: 3.0.0
     version: 3.0.0
   node-fetch-native:
-    specifier: ^1.6.1
+    specifier: 1.6.1
     version: 1.6.1
   nuxt:
     specifier: 3.9.1
