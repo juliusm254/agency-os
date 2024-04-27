@@ -127,14 +127,14 @@ const { data: form } = await useAsyncData(
 					<Icon name="heroicons:bolt" class="w-4 h-4 text-primary" />
 					Site powered by
 					<NuxtLink
-						href="https://www.directus.io?ref=agencyos_footer"
+						href="https://www.habahaba.store"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="border-b dark:border-b-gray-700 hover:text-primary"
 					>
-						Directus
+						Habahaba
 					</NuxtLink>
-					and
+					<!-- and
 					<NuxtLink
 						href="https://www.nuxt.com?ref=agencyos_footer"
 						target="_blank"
@@ -142,7 +142,7 @@ const { data: form } = await useAsyncData(
 						class="border-b dark:border-b-gray-700 hover:text-primary"
 					>
 						Nuxt
-					</NuxtLink>
+					</NuxtLink> -->
 					.
 				</span>
 			</div>
